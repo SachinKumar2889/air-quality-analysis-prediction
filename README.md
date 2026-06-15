@@ -1,5 +1,4 @@
-
-# Air Quality Analysis and Prediction using Machine Learning
+##Air Quality Analysis and Prediction System using Machine Learning
 
 ## Overview
 This project analyzes air quality data from major Indian cities and predicts PM2.5 concentration using Linear Regression.
